@@ -1,4 +1,4 @@
-# PYTN_Final-Project_Krisna-WInar-Setiawan
+# PYTN_Kampus Merdeka_Final-Project_Krisna-WInar-Setiawan
 
 # PYTN_KampusMerdeka_fp1_Krisna-WInar-Setiawan.ipynb
 ## Project Overview
