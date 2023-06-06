@@ -1,6 +1,6 @@
-# PYTN_Kampus Merdeka_Final-Project_Krisna-WInar-Setiawan
+# PYTN_Kampus Merdeka_Final-Project_Krisna-Winar-Setiawan
 
-# PYTN_KampusMerdeka_fp1_Krisna-WInar-Setiawan
+# PYTN_KampusMerdeka_fp1_Krisna-Winar-Setiawan
 ## Project Overview
 Database ini memiliki 57 atribut, tetapi yang paling relevan ada 10 atribut dari semuanya.
 Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
