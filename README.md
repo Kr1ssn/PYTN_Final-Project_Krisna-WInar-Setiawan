@@ -27,9 +27,9 @@ Attribute Information:
 ## KESIMPULAN
 Setelah melakukan proses visualisai data dan analisis maka dapat ditarik kesimpulan bahwa jumlah order ataui pesananUber lebih uggul dibandingakan Lyft dari segalaa aspek periode waktu.
 
-“PYTN_KampusMerdeka_fp2_Krisna Winar Setiawan"
+# PYTN_KampusMerdeka_fp2_Krisna Winar Setiawan
 
-“PYTN_KampusMerdeka_fp3_Krisna Winar Setiawan".
+# PYTN_KampusMerdeka_fp3_Krisna Winar Setiawan
 ## Projects Overview
 Data ini memiliki 13 atribut. Prediksi keselamatan pasien dari penyakit jantung.
 ## Attribute Information:
